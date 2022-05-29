@@ -2,7 +2,7 @@
 
 Chew Zhi Qi. 
 
-Testing framework: Selinum(Python)
+Testing framework: Selinum(Python)<br>
 Browser Used: Chrome Version 102.0.5005.63 (Official Build) (64-bit)
 
 ### Pre Requisite: 
